@@ -1,4 +1,4 @@
-# Hackers Auth Service
+# Hackers Auth Service 
 
 A simple authentication service built with Go and Gin, providing JWT-based authentication for demo purposes.
 
